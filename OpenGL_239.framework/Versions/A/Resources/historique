@@ -1,0 +1,8 @@
+0.1 : primitive de base sphère et cylindre
+0.2 : création de la primitive ligne
+0.3 : 12-09-2017 création du motif triangle
+0.4 : tracé d'une image par texture
+0.5 : tracé amélioré du triangle (possibilité de switch mode couleur uniform ou par sommet)
+0.55 : ajout méthode setModeCouleur(_ mode: GLint)  pour sphère et cylindre et ligne (figé à 0 pour ce dernier)
+
+
