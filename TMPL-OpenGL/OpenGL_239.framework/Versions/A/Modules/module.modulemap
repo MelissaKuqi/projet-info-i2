@@ -1,0 +1,11 @@
+framework module OpenGL_239 {
+  umbrella header "OpenGL_239.h"
+
+  export *
+  module * { export * }
+}
+
+module OpenGL_239.Swift {
+    header "OpenGL_239-Swift.h"
+    requires objc
+}
